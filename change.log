@@ -1,0 +1,13 @@
+## [1.2.0] - 2019-09-02
+### Changed
+- 已经完成admin/index.php的系统环境信息
+- 已经完成文章分类的添加及列表
+### Added
+- 创建include目录,创建Db.php数据库处理的自定义函数文件
+- 创建config目录,并且config目录下创建database.php的数据库配置文件
+
+## [1.1.0] - 2019-09-01
+### Changed
+- 所有HTML类型的文件全部修改为PHP类型文件
+### Added
+- 在data目录创建data.sql脚本文本,存储SQL脚本命令
